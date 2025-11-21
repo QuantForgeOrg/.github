@@ -36,7 +36,7 @@ A dedicated backend for:
 ---
 
 ## 🌱 Join the Community
-Reddit: https://www.reddit.com/r/QuantForgeOrg/  
+Reddit: https://www.reddit.com/r/QuantForge/  
 Website: https://QuantForge.org
 
 ---
