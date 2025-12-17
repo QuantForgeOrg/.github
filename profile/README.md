@@ -17,13 +17,14 @@ Built around our flagship project:
 
 ---
 
-### **📊 Charting & Visualization Library**
-A lightweight, extensible charting system designed for:
-- real-time market data,
-- indicator overlays,
-- strategy visualization,
-- custom UI integrations.
-(WIP)
+📊 Financial Visualization (QFChart)
+Our dedicated charting system. It bridges the gap between raw data and visual insights, specifically tuned for the outputs of the PineTS engine but can be used to visualize any financial data/indicators .
+
+Optimized for Quants: Built for real-time market data, technical overlays, and strategy backtest results.
+
+Seamless Integration: Native support for visualizing PineTS indicator series.
+
+➡️ **QFChart** — https://github.com/QuantForgeOrg/QFChart
 
 ---
 
