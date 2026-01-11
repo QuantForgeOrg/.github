@@ -13,7 +13,7 @@ A full PineScript-style execution engine, allowing you to run indicator and stra
 
 Built around our flagship project:
 
-➡️ **PineTS** — https://github.com/QuantForgeOrg/PineTS
+➡️ **PineTS** - https://github.com/QuantForgeOrg/PineTS
 
 ---
 
@@ -24,7 +24,24 @@ Optimized for Quants: Built for real-time market data, technical overlays, and s
 
 Seamless Integration: Native support for visualizing PineTS indicator series.
 
-➡️ **QFChart** — https://github.com/QuantForgeOrg/QFChart
+➡️ **QFChart** - https://github.com/QuantForgeOrg/QFChart
+
+---
+## 🧪 Try the QuantForge Playground
+
+QuantForge isn’t just a set of libraries and runtimes, you can **try the core engine instantly in your browser with the Playground**.
+
+The Playground is an interactive environment powered by the **PineTS execution engine** and the **QFChart visualization library** that lets you:
+
+- Write and execute Pine Script™ code live in your browser  
+- Visualize indicators with real charting  
+- Experiment with logic and parameters with **zero setup or installation**  
+- Prototype ideas before embedding them into your apps
+
+It’s the fastest way to test scripts, explore indicator behavior, and iterate on quant logic without leaving your browser.  
+👉 https://quantforge.org/playground/ 
+
+Whether you’re learning Pine Script, verifying a strategy, or building dashboards, the Playground accelerates development and lowers the barrier to entry for experimenting with PineTS and QFChart.
 
 ---
 
@@ -43,5 +60,5 @@ Website: https://QuantForge.org
 ---
 
 ## 🚀 About QFO
-Our mission is to create a transparent, open, and developer-friendly ecosystem for quant research, visualization, and algorithmic trading infrastructure — fully in the world’s most accessible languages: **JS & TS**.
+Our mission is to create a transparent, open, and developer-friendly ecosystem for quant research, visualization, and algorithmic trading infrastructure, fully in the world’s most accessible languages: **JS & TS**.
 
