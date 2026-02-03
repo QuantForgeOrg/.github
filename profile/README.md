@@ -14,6 +14,7 @@ A full PineScript-style execution engine, allowing you to run indicator and stra
 Built around our flagship project:
 
 ➡️ **PineTS** - https://github.com/QuantForgeOrg/PineTS
+➡️ **PineTS Discussions** - https://github.com/QuantForgeOrg/PineTS/discussions
 
 ---
 
