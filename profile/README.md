@@ -15,7 +15,7 @@ Built around our flagship project:
 
 ➡️ **PineTS** - https://github.com/QuantForgeOrg/PineTS
 
-➡️ **PineTS Discussions** - https://github.com/QuantForgeOrg/PineTS/discussions
+➡️ **Discussions** - https://github.com/QuantForgeOrg/PineTS/discussions
 
 ---
 
