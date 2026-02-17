@@ -13,9 +13,13 @@ A full PineScript-style execution engine, allowing you to run indicator and stra
 
 Built around our flagship project:
 
-➡️ **PineTS** - https://github.com/QuantForgeOrg/PineTS
+➡️ **PineTS** - https://github.com/QuantForgeOrg/PineTS : The Core PineTS library (transpiler + engine)
 
-➡️ **Discussions** - https://github.com/QuantForgeOrg/PineTS/discussions
+➡️ **PineTS CLI** - https://github.com/QuantForgeOrg/pinets-cli : A cli tool to run Pine Script indicators from the command line
+
+➡️ **Discussions** - https://github.com/QuantForgeOrg/PineTS/discussions : Communiy Discussions
+
+
 
 ---
 
